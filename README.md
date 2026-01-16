@@ -1,6 +1,6 @@
 # List of GitHub Markdown Emojis
 
-## most used by W#RD.io gm frens:
+## most used by W3RD.io gm frens:
 
 
 
